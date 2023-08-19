@@ -1,0 +1,5 @@
+package in.Kavana.service;
+
+public class IStudentService {
+
+}
